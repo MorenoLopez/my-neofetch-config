@@ -1,4 +1,4 @@
-![Neofetch preview](./screenshot.png)
+![Neofetch preview](./Screenshot.png)
 
 # my-neofetch-config
 
